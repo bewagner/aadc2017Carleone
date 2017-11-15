@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>	
+<!-- Ausrichutngen stimmen nicht -->	
+	<roadSign id="10" x="2.1" y="1.1" radius="1.0" direction="0" init="1"/>
+
+	<roadSign id="2" x="1.1" y="2.5" radius="1.0" direction="90" init="1"/>
+	<roadSign id="3" x="1.1" y="5.8" radius="1.0" direction="90"/>
+	<roadSign id="1" x="1.2" y="7.1" radius="1.0" direction="180" init="1"/>
+	<roadSign id="6" x="2.5" y="5.9" radius="1.0" direction="0" init="1"/>
+	<roadSign id="3" x="2.6" y="0.0" radius="1.0" direction="0" init="1"/>
+	<roadSign id="5" x="2.9" y="1.2" radius="1.0" direction="-90"/>
+	<roadSign id="6" x="3.3" y="7.1" radius="1.0" direction="180" />
+	<roadSign id="2" x="3.5" y="5.9" radius="1.0" direction="0"/>
+	<roadSign id="1" x="4.1" y="2.8" radius="1.0" direction="90"/>
+	<roadSign id="3" x="4.2" y="1.1" radius="1.0" direction="180"/>
+	<roadSign id="0" x="4.2" y="4.1" radius="1.0" direction="180"/>
+	<roadSign id="5" x="5.8" y="0.0" radius="1.0" direction="0"/>
+	<roadSign id="0" x="5.8" y="2.9" radius="1.0" direction="0"/>
+	<roadSign id="1" x="5.8" y="5.9" radius="1.0" direction="0"/>
+	<roadSign id="3" x="5.9" y="4.2" radius="1.0" direction="-90"/>
+	<roadSign id="3" x="5.9" y="1.1" radius="1.0" direction="-90"/> <!-- ? -->
+	<roadSign id="3" x="7.1" y="2.8" radius="1.0" direction="90"/>
+	<roadSign id="1" x="7.1" y="5.9" radius="1.0" direction="90"/>
+
+<!-- ID=0 "rechts vor links" -->
+<!-- ID=1 "Stopschild" -->
+<!-- ID=2 "Parkplatz" -->
+<!-- ID=3 "Rakete" -->
+<!-- ID=5 "Vorfahrt achten" -->
+<!-- ID=6 "Zebrastreifen" -->
+<!-- ID=10 "A9" -->
+
+
+<!-- parking -->
+<parkingSpace id="1" x="1.0" y="3.25" status="1" direction="180" />
+<parkingSpace id="2" x="1.0" y="3.75" status="0" direction="180" />
+<parkingSpace id="3" x="1.0" y="4.25" status="1" direction="180" />
+<parkingSpace id="4" x="1.0" y="4.75" status="0" direction="180" />
+
+<parkingSpace id="5" x="4.25" y="6.0" status="1" direction="90" />
+<parkingSpace id="6" x="4.75" y="6.0" status="0" direction="90" />
+
+</configuration>

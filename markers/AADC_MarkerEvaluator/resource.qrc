@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Aheadonly.png</file>
+        <file>resource/Parkingarea.png</file>
+        <file>resource/Stopandgiveway.png</file>
+        <file>resource/Giveway.png</file>
+        <file>resource/Haveway.png</file>
+        <file>resource/NoMatch.png</file>
+        <file>resource/Unmarkedintersection.png</file>
+        <file>resource/Oneway.png</file>
+        <file>resource/Noentry.png</file>
+        <file>resource/Pedestriancrossing.png</file> 
+        <file>resource/Roundabout.png</file>
+        <file>resource/Noovertaking.png</file>
+        <file>resource/Roadworks.png</file>
+        <file>resource/TestcourseA9.png</file>
+        <file>resource/50kmh.png</file>
+        <file>resource/100kmh.png</file>
+    </qresource>
+</RCC>

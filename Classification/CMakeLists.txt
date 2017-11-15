@@ -1,0 +1,5 @@
+add_subdirectory(ClassificationPictureCapturer)
+add_subdirectory(ClassificationPostprocessing)
+# add_subdirectory(ClassificationPreprocessing)
+#add_subdirectory(ClassificationVisualizer)
+#add_subdirectory(PersonClassification)

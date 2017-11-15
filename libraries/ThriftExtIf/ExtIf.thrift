@@ -1,0 +1,1 @@
+/home/aadc/ADTF/src/aadcUser/Python_ExtIf_Server/ExtIf.thrift

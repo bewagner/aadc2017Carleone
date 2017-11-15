@@ -1,0 +1,3 @@
+add_subdirectory(AADC_MarkerDetector)
+#add_subdirectory(AADC_MarkerEvaluator)
+add_subdirectory(AADC_MarkerGenerator)
